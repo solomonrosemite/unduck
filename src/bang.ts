@@ -3,6 +3,15 @@
 export const bangs = [
   {
     c: "AI",
+    d: "www.perplexity.ai",
+    r: 0,
+    s: "Perplexity",
+    sc: "AI",
+    t: "pp",
+    u: "https://www.perplexity.ai/?q={{{s}}}",
+  },
+  {
+    c: "AI",
     d: "www.t3.chat",
     r: 0,
     s: "T3 Chat",
@@ -83785,15 +83794,6 @@ export const bangs = [
     sc: "Companies",
     t: "pplwiki",
     u: "https://thepluginpeople.atlassian.net/wiki/dosearchsite.action?queryString={{{s}}}",
-  },
-  {
-    c: "News",
-    d: "passapalavra.info",
-    r: 16,
-    s: "Passa Palavra",
-    sc: "Magazine",
-    t: "pp",
-    u: "http://passapalavra.info/?s={{{s}}}",
   },
   {
     c: "Online Services",
