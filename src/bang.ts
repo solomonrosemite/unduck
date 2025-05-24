@@ -10798,7 +10798,7 @@ export const bangs = [
     s: "BibleGateway",
     sc: "Tools",
     t: "bg",
-    u: "http://www.biblegateway.com/passage/?search={{{s}}}",
+    u: "http://www.biblegateway.com/passage/?search={{{s}}}&version=NIV,NLT",
   },
   {
     c: "Online Services",
