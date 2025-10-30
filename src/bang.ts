@@ -1393,7 +1393,7 @@ export const bangs = [
     r: 0,
     s: "Amazon Austria",
     sc: "Online",
-    t: "a.at",
+    t: "am",
     u: "https://www.amazon.de/s?k={{{s}}}",
   },
   {
@@ -4192,7 +4192,7 @@ export const bangs = [
     r: 1168,
     s: "Amazon.com",
     sc: "Online",
-    t: "am",
+    t: "am.us",
     u: "https://www.amazon.com/s?k={{{s}}}",
   },
   {
